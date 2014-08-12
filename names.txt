@@ -6,6 +6,7 @@ Robert
 
 \begin{equation}
 F(u) = \int_{0}^{1}f(x)J_{0}(2\pi{u}x)dx
+f(x) = \int_{0}^{1}F(u)J_{0}(2\pi{u}x)du
 \label{EQN:Hankel}
 \end{equation}
 
