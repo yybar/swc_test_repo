@@ -10,3 +10,4 @@ F(u) = \int_{0}^{1}J_{0}(2\pi{u}x)dx
 \end{equation}
 
 Azalee editing now
+New line :)
