@@ -5,7 +5,7 @@ Robert
 \end{equation}
 
 \begin{equation}
-F(u) = \int_{0}^{1}J_{0}(2\pi{u}x)dx
+F(u) = \int_{0}^{1}f(x)J_{0}(2\pi{u}x)dx
 \label{EQN:Hankel}
 \end{equation}
 
