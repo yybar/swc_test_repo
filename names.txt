@@ -1,1 +1,5 @@
 Robert
+
+\begin{equation}
+\pi \simeq 3.142
+\end{equation}
