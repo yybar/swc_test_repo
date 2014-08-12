@@ -6,7 +6,7 @@ Robert
 
 \begin{equation}
 F(u) = \int_{0}^{1}f(x)J_{0}(2\pi{u}x)dx
-\label{EQN:Hankel}
+\label{EQN:HankelTransform}
 \end{equation}
 
 Azalee editing now
